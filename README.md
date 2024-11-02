@@ -1,5 +1,5 @@
 # Amazon-Sales-Insights-Dashboard
-
+![alt text](https://github.com/myselfadib/Amazon-Sales-Insights-Dashboard/blob/main/Amazon%20Dashboard.png)
 ### Summary
 - The "Amazon Sales Insights Dashboard" is a meticulously developed Power BI dashboard that enables in-depth analysis of Amazon's fashion sales data. This project highlights a data-driven approach to business intelligence, optimized to utilize Power BI's comprehensive functionalities for strategic insights. The dashboard is designed to facilitate an interactive exploration of sales data, featuring advanced data visualization techniques and real-time analytics.
 
